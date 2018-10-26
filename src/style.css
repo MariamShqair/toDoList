@@ -1,0 +1,24 @@
+.marginlistElement{
+    margin:10px;
+}
+.titleStyle{
+   
+    display: inline-block;
+
+}
+.checkedChange{
+    display: inline-block;
+
+}
+
+.checkedChange .form-check-input {
+    
+    margin-left: 0;
+}
+.checkedChange span{
+    margin-left: 25px;
+}
+.deleteItem{
+    display: inline-block;
+
+}
